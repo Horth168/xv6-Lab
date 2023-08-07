@@ -1,0 +1,11 @@
+关于实验，主要是这个网站：https://pdos.csail.mit.edu/6.828/2018/
+xv6简介：https://pdos.csail.mit.edu/6.828/2018/xv6.html
+xv6环境搭建：https://pdos.csail.mit.edu/6.828/2019/tools.html
+xv6电子书：https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev10.pdf
+我们要做的Labs:
+1. xv6 system calls. https://pdos.csail.mit.edu/6.828/2018/homework/xv6-syscall.html
+2. xv6 lazy page allocation. https://pdos.csail.mit.edu/6.828/2018/homework/xv6-zero-fill.html
+3. xv6 CPU alarm. https://pdos.csail.mit.edu/6.828/2018/homework/xv6-alarm.html
+4. xv6 locking. https://pdos.csail.mit.edu/6.828/2018/homework/xv6-lock.html
+5. Bigger files for xv6. https://pdos.csail.mit.edu/6.828/2018/homework/xv6-big-files.html
+大家可以在虚拟实验平台上完成，也可以在自己的电脑上完成，最后在虚拟实验平台上提交实验报告和源代码包。截止时间为2020年12月31日。
